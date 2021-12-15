@@ -73,5 +73,5 @@
      
 </form>
 <h5 class="text-center">Page of Create Mahasiswa</h5>
-<h6 class="text-center">Faiz Hanafi - 2021</h6>
+<h6 class="text-center">Amanda Muchsin Chalik - 2021</h6>
 @endsection

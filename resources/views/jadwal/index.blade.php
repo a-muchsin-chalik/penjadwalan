@@ -68,6 +68,6 @@
 </table>
 
 <h5 class="text-center">Page of Index Dosen</h5>
-<h6 class="text-center">Faiz Hanafi - 2021</h6>
+<h6 class="text-center">Amanda Muchsin Chalik - 2021</h6>
 
 @endsection
